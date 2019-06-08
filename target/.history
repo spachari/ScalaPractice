@@ -1,0 +1,2 @@
+(new ElementTestSuite).execute
+sbt compile
