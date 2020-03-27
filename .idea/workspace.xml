@@ -1,16 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="668e6f38-3839-4cdb-9a63-65ce9a8c75cb" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/project/project/target/" />
-    <ignored path="$PROJECT_DIR$/project/target/" />
+    <list default="true" id="668e6f38-3839-4cdb-9a63-65ce9a8c75cb" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/programmingscala/examples/types/variance/in/inheritance/Test.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__antlr_antlr_2_7_7_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__antlr_antlr_2_7_7_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/sbt__stax_stax_api_1_0_1_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/sbt__stax_stax_api_1_0_1_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/untitled3-build.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/untitled3-build.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/untitled3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/untitled3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$75e01739d89ee25f3f56$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$75e01739d89ee25f3f56.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$75e01739d89ee25f3f56.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0fb873ffd9174fc40c00$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0fb873ffd9174fc40c00$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0fb873ffd9174fc40c00.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0fb873ffd9174fc40c00.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$186e4b7ca2701b047b14$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$186e4b7ca2701b047b14$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$186e4b7ca2701b047b14.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$186e4b7ca2701b047b14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$29f76b714fe6b3e77ac4$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$29f76b714fe6b3e77ac4$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$29f76b714fe6b3e77ac4.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$29f76b714fe6b3e77ac4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$35051418c8e1c693e821$$anonfun$$sbtdef$1$$anonfun$apply$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$35051418c8e1c693e821$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$35051418c8e1c693e821$$anonfun$$sbtdef$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$35051418c8e1c693e821$$anonfun$$sbtdef$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$35051418c8e1c693e821$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$35051418c8e1c693e821.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$35051418c8e1c693e821.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4d44d42e0701f29ca91f$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4d44d42e0701f29ca91f$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4d44d42e0701f29ca91f.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4d44d42e0701f29ca91f.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b27b1c811ca366f4d9c9$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b27b1c811ca366f4d9c9$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b27b1c811ca366f4d9c9.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b27b1c811ca366f4d9c9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d68c0f11af43285297b5$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d68c0f11af43285297b5.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d68c0f11af43285297b5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$da72753130faa5c58dcd$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$da72753130faa5c58dcd$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$da72753130faa5c58dcd.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$da72753130faa5c58dcd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dfbf77eb6a5ef9a3ee63$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dfbf77eb6a5ef9a3ee63$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dfbf77eb6a5ef9a3ee63.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$dfbf77eb6a5ef9a3ee63.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$eca02f4145bdd7734721$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$eca02f4145bdd7734721$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$eca02f4145bdd7734721.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$eca02f4145bdd7734721.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ffe7d37cc85972539703$$anonfun$$sbtdef$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ffe7d37cc85972539703$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ffe7d37cc85972539703.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ffe7d37cc85972539703.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/general/data/structures/and/algorithms/ch6StacksQueuesAndDeques/queue/ArrayQueueTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/com/general/data/structures/and/algorithms/ch6StacksQueuesAndDeques/queue/ArrayQueueTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/general/data/structures/and/algorithms/javatutorial/exceptions/ThrowsKeyword.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/com/general/data/structures/and/algorithms/javatutorial/exceptions/ThrowsKeyword.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/programmingscala/examples/concurrency/futures/AsyncModule$stateMachine$macro$4$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/com/programmingscala/examples/concurrency/futures/AsyncModule$stateMachine$macro$4$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/programmingscala/examples/concurrency/futures/ParallelizedCode$stateMachine$macro$27$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/com/programmingscala/examples/concurrency/futures/ParallelizedCode$stateMachine$macro$27$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/programmingscala/examples/functionalprogramming/AdvancedFoldExample$$anonfun$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/com/programmingscala/examples/functionalprogramming/AdvancedFoldExample$$anonfun$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/programmingscala/examples/functionalprogramming/AdvancedFoldExample$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/com/programmingscala/examples/functionalprogramming/AdvancedFoldExample$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/programmingscala/examples/implicits/phantomTypes/PhantomTypes$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/com/programmingscala/examples/implicits/phantomTypes/PhantomTypes$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/programmingscala/examples/implicits/phantomTypes/UsingPhantomTypesWithImplicits$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/com/programmingscala/examples/implicits/phantomTypes/UsingPhantomTypesWithImplicits$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/shapeless/guide/chapter1/BasicGenericClassExample$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/com/shapeless/guide/chapter1/BasicGenericClassExample$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/shapeless/guide/chapter1/BasicGenericClassExample$anon$macro$4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/com/shapeless/guide/chapter1/BasicGenericClassExample$anon$macro$8$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.11/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.11/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -34,109 +116,8 @@
       </state>
     </system>
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-745810203">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="24" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.16" value="2" />
-          <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.21" value="1" />
-          <entry key="project.open.time.24" value="1" />
-          <entry key="project.open.time.25" value="2" />
-          <entry key="project.open.time.27" value="1" />
-          <entry key="project.open.time.28" value="1" />
-          <entry key="project.open.time.29" value="1" />
-          <entry key="project.open.time.30" value="2" />
-          <entry key="project.open.time.32" value="2" />
-          <entry key="project.open.time.33" value="1" />
-          <entry key="project.open.time.34" value="1" />
-          <entry key="project.open.time.37" value="1" />
-          <entry key="project.open.time.38" value="1" />
-          <entry key="project.open.time.39" value="1" />
-          <entry key="project.open.time.40" value="1" />
-          <entry key="project.open.time.42" value="1" />
-          <entry key="project.open.time.43" value="1" />
-          <entry key="project.open.time.44" value="1" />
-          <entry key="project.open.time.45" value="3" />
-          <entry key="project.open.time.51" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.64" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="3" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="40" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="conf" value="2" />
-          <entry key="java" value="326" />
-          <entry key="sbt" value="5" />
-          <entry key="sc" value="3" />
-          <entry key="scala" value="179" />
-          <entry key="txt" value="1" />
-          <entry key="xml" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="HOCON" value="2" />
-          <entry key="JAVA" value="326" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Scala" value="182" />
-          <entry key="XML" value="1" />
-          <entry key="sbt" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="108" />
-          <entry key="java" value="127889" />
-          <entry key="sbt" value="23" />
-          <entry key="sc" value="298" />
-          <entry key="scala" value="27382" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="127889" />
-          <entry key="PLAIN_TEXT" value="108" />
-          <entry key="Scala" value="27680" />
-          <entry key="sbt" value="23" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FavoritesManager">
     <favorites_list name="untitled3" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/scalaCookbook/examples/exceptions/FilterListAndthrowException.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="652">
-              <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/programmingscala/examples/scalaObjectSystem/CaseClassesProductTuples.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -179,142 +160,23 @@
       <dir>$PROJECT_DIR$/src/main/scala/com</dir>
     </dirStrings>
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/scala/com/general/data/structures/and/algorithms/ch12SortingAndSearching/countingSort/CountingSortNonDuplicates.java" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/general/data/structures/and/algorithms/ch12SortingAndSearching/countingSort/Pair.java" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/general/data/structures/and/algorithms/ch12SortingAndSearching/countingSort/AbstractCountingSort.java" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/general/data/structures/and/algorithms/ch12SortingAndSearching/countingSort/CountingSortDuplicates.java" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/programmingscala/examples/types/underscore/UnderscoreTest.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/programmingscala/examples/types/underscore/Printable.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/programmingscala/examples/types/underscore/Animal.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/general/data/structures/and/algorithms/ch12SortingAndSearching/radixsort/RadixSort.java" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/general/data/structures/and/algorithms/ch12SortingAndSearching/quickselect/QuickSelect.java" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/scalaCookbook/examples/Functions/SplatOperatorUsages.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/general/data/structures/and/algorithms/ch12SortingAndSearching/quicksort/QuickSort.java" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/general/data/structures/and/algorithms/ch3fundamentaldatastructures/Utilities.java" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/general/data/structures/and/algorithms/ch13TextProcessing/BruteForceStringSearch.java" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/general/data/structures/and/algorithms/ch13TextProcessing/BoyerMooreStringSearch.java" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/general/data/structures/and/algorithms/greedymethod/PointsAndWeight.java" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/general/data/structures/and/algorithms/sortinganobject/SortingBasicIntegers.java" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/general/data/structures/and/algorithms/sortinganobject/SortingACollection.java" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/general/data/structures/and/algorithms/sortinganobject/Student.java" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/general/data/structures/and/algorithms/sortinganobject/comparableexample/Student.java" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/general/data/structures/and/algorithms/sortinganobject/comparatorexample/SortingCustomer.java" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/general/data/structures/and/algorithms/sortinganobject/comparatorexample/Student.java" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/general/data/structures/and/algorithms/sortinganobject/comparatorexample/Customer.java" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/general/data/structures/and/algorithms/greedymethod/ProfitsAndWeights.java" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/general/data/structures/and/algorithms/greedymethod/KnapSackProblem.java" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/com/dickWall/scala/revision/part1/IfStatements.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/com/dickWall/scala/revision/part1/ReassigningAVal.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/com/dickWall/scala/revision/part1/TryCatchBlock.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/com/dickWall/scala/revision/part1/timestable.sc" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/dickWall/scala/revision/part1/timestable.sc" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/programmingscala/examples/memoization/BasicExample.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/dickWall/scala/revision/part1/TryCatchBlock.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/dickWall/scala/revision/part1/RewritingRules.scala" />
-        <option value="$PROJECT_DIR$/build.sbt" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/shapeless/guide/BasicGenericClassExample.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/general/data/structures/and/algorithms/javatutorial/ternaryOperator/TernaryOperator.java" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/shapeless/guide/ADTMeaning.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/shapeless/guide/chapter1/ADTMeaning.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/shapeless/guide/chapter1/objectHList.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/programmingscala/examples/implicits/DosAndDontsWithImplicits.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/programmingscala/examples/implicits/ImplicitsCanBecalledinValueAndDefExample1.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/programmingscala/examples/implicits/ImplicitInCaseClass.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/programmingscala/examples/types/higherkinded/types/HigerKindedTypes.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/shapeless/guide/chapter1/AlternativeEncodings.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/shapeless/guide/chapter1/BasicGenericClassExample.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/shapeless/guide/chapter2/AlgebraicDataTypes.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/shapeless/guide/chapter2/ProductsAndCoProductsViaTypes.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/MethodOverloading.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/method/overloading/issue/fix/Problem.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/shapeless/guide/chapter2/HList.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/scalaCookbook/examples/WebServices/json4s/ConvertJsonToAST.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/com/scalaCookbook/examples/exceptions/FilterListAndthrowException.scala" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
-  </component>
+  <component name="ProjectId" id="1SN9oHzCRzGqx6B8Z62VbeE7Nt5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <flattenPackages ProjectPane="false" />
-      <showMembers ProjectPane="true" />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="untitled3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="untitled3" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="examples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="untitled3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/spachari/IdeaProjects/untitled3/src/main/scala/com/general/data/structures/and/algorithms/ch12SortingAndSearching/quicksort/QuickSort.java&#10;Ele&#9;null&#9;null" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559453056887" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -344,7 +206,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FilterListAndthrowException">
+  <component name="RunManager" selected="Application.RealWorldCode">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -479,7 +341,7 @@
       <option name="_new_target" value="&quot;&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
+    <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -492,20 +354,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.shapeless.guide.chapter2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BasicGenericClassExample" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.shapeless.guide.chapter1.BasicGenericClassExample" />
-      <module name="untitled3" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.shapeless.guide.chapter1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -555,6 +403,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RealWorldCode" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.design.patterns.cake.pattern.RealWorldCode" />
+      <module name="untitled3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.design.patterns.cake.pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -562,6 +424,7 @@
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -580,7 +443,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
@@ -588,29 +452,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
+      <predefined_log_file enabled="true" id="idea.log" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BasicGenericClassExample" />
       <item itemvalue="Application.AlgebraicDataTypes" />
       <item itemvalue="Application.Problems" />
       <item itemvalue="Application.ConvertJsonToAST" />
       <item itemvalue="Application.FilterListAndthrowException" />
+      <item itemvalue="Application.RealWorldCode" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RealWorldCode" />
         <item itemvalue="Application.FilterListAndthrowException" />
         <item itemvalue="Application.ConvertJsonToAST" />
         <item itemvalue="Application.Problems" />
         <item itemvalue="Application.AlgebraicDataTypes" />
-        <item itemvalue="Application.BasicGenericClassExample" />
       </list>
     </recent_temporary>
   </component>
@@ -627,11 +491,11 @@
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="untitled3 [file:/Users/spachari/IdeaProjects/untitled3/]" />
+                <option name="name" value="scalapractice [file:/Users/spachari/IdeaProjects/ScalaPractice/]" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="untitled3-build [file:/Users/spachari/IdeaProjects/untitled3/]" />
+                <option name="name" value="untitled3-build" />
                 <option name="path" value="$PROJECT_DIR$/project" />
               </ExternalProjectPojo>
             </list>
@@ -641,10 +505,9 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4610058991000" />
-        <entry key="$PROJECT_DIR$/build.sbt" value="2335630329" />
-        <entry key="$PROJECT_DIR$/project/assembly.sbt" value="2796477738" />
-        <entry key="$PROJECT_DIR$/project/build.properties" value="924338670" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2912937623" />
+        <entry key="$PROJECT_DIR$/project/assembly.sbt" value="2134611975" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1085431145" />
       </map>
     </option>
   </component>
@@ -664,38 +527,6 @@
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="FunctorPropertiesTests - 2018.11.15 at 14h 29m 15s.xml">
-      <configuration name="FunctorPropertiesTests" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="FunctorPropertiesTests - 2018.11.15 at 14h 31m 14s.xml">
-      <configuration name="FunctorPropertiesTests" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="FunctorPropertiesTests - 2018.11.15 at 14h 35m 22s.xml">
-      <configuration name="FunctorPropertiesTests" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="FunctorPropertiesTests - 2018.11.15 at 14h 39m 55s.xml">
-      <configuration name="FunctorPropertiesTests" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="FunctorPropertiesTests - 2018.11.15 at 14h 42m 48s.xml">
-      <configuration name="FunctorPropertiesTests" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="FunctorPropertiesTests_Functor_morphism_composition_works_for_Sequence_Functors_Functor_morphism_composition_works_for_Function_Functors - 2018.11.15 at 14h 33m 42s.xml">
-      <configuration name="FunctorPropertiesTests.Functor morphism composition works for Sequence Functors&#10;Functor morphism composition works for Function Functors" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="WithFixtureOneArgTestSpec - 2018.10.01 at 14h 54m 33s.xml">
-      <configuration name="WithFixtureOneArgTestSpec" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="WithFixtureOneArgTestSpec - 2018.10.01 at 14h 54m 58s.xml">
-      <configuration name="WithFixtureOneArgTestSpec" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="WithFixtureSpec - 2018.09.30 at 20h 48m 25s.xml">
-      <configuration name="WithFixtureSpec" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="WithFixtureSpec - 2018.09.30 at 20h 48m 39s.xml">
-      <configuration name="WithFixtureSpec" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -705,379 +536,22 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" x="578" y="187" width="284" height="526" id="Project" order="0" sideWeight="0.49227798" visible="true" weight="0.2746781" />
-      <window_info id="Structure" order="1" weight="0.24892704" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" sideWeight="0.507722" side_tool="true" weight="0.24964234" />
-      <window_info id="Image Layers" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info active="true" anchor="bottom" id="Find" order="1" sideWeight="0.4985694" visible="true" weight="0.41387856" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8769671" visible="true" weight="0.3135068" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49499285" weight="0.39281288" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49356222" weight="0.3283767" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.123032905" side_tool="true" weight="0.49070632" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.54077256" weight="0.4857497" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4892704" weight="0.42503098" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="11" sideWeight="0.49284694" weight="0.32713756" />
-      <window_info anchor="bottom" id="Build" order="12" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven Projects" order="4" weight="0.3297568" />
-      <window_info anchor="right" id="Palette&#9;" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="right" id="Data View" order="8" />
-      <window_info anchor="right" id="SBT" order="9" weight="0.3297568" />
-      <window_info anchor="right" id="sbt" order="10" weight="0.3297568" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" x="578" y="187" width="284" height="526" id="Project" order="0" sideWeight="0.49227798" visible="true" weight="0.2825465" />
-      <window_info id="Structure" order="1" weight="0.24964234" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" sideWeight="0.507722" side_tool="true" weight="0.24964234" />
-      <window_info id="Image Layers" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.329602" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.41130185" weight="0.21268657" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49713877" weight="0.39427862" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49427754" weight="0.329602" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.41988555" side_tool="true" visible="true" weight="0.16666667" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="9" sideWeight="0.5801144" visible="true" weight="0.16666667" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49427754" weight="0.34950247" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="11" sideWeight="0.49427754" weight="0.3283582" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven Projects" order="4" />
-      <window_info anchor="right" id="Palette&#9;" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="right" id="Data View" order="8" />
-      <window_info anchor="right" id="SBT" order="9" weight="0.3297568" />
-    </layout-to-restore>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/general/data/structures/and/algorithms/greedymethod/ProfitsAndWeights.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/com/dickWall/scala/revision/part1/ReassigningAVal.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/com/dickWall/scala/revision/part1/timestable.sc" />
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.8-sources.jar!/scala/Predef.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="98" column="7" selection-start-line="98" selection-start-column="7" selection-end-line="98" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/programmingscala/examples/memoization/BasicExample.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="2" selection-start-line="39" selection-start-column="2" selection-end-line="39" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/general/data/structures/and/algorithms/greedymethod/KnapSackProblem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/scalaCookbook/examples/Collections/Maps.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/scalaCookbook/examples/Collections/MapAndFlatten.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/general/data/structures/and/algorithms/javatutorial/ternaryOperator/TernaryOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="87" selection-start-line="10" selection-start-column="87" selection-end-line="10" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/scalaCookbook/examples/Files/OpenAndReadATextFile.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/dickWall/scala/revision/part1/TryCatchBlock.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/dickWall/scala/revision/part1/timestable.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/dickWall/scala/revision/part1/IfStatements.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/dickWall/scala/revision/part1/RewritingRules.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scala.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/programmingscala/examples/implicits/implicitsAsExecutionContexts/ShapesDrawingActor.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/programmingscala/examples/implicits/implicitsForAllowedInstances/ConstrainingAllowedInstances.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/programmingscala/examples/implicits/implicitsAsExecutionContexts/ImplicitsAsExecutionContexts.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/programmingscala/examples/implicits/implicitsAsExecutionContexts/Shapes.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/programmingscala/examples/implicits/phantomTypes/PhantomTypes.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="53" column="15" selection-start-line="53" selection-start-column="15" selection-end-line="53" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/programmingscala/examples/implicits/phantomTypes/UsingPhantomTypesWithImplicits.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/programmingscala/examples/implicits/ImplicitAsEvidenceInScala.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-28" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/programmingscala/examples/implicits/DosAndDontsWithImplicits.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="58" selection-start-line="25" selection-start-column="58" selection-end-line="25" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/programmingscala/examples/implicits/ImplicitsCanBecalledinValueAndDefExample1.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/programmingscala/examples/implicits/ImplicitsFromCompanionObjects.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/programmingscala/examples/implicits/ImplicitsToControlCapabilities.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/programmingscala/examples/types/higherkinded/types/SimpleTypeClassPattern.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/programmingscala/examples/types/higherkinded/types/HigherKindedTypesSimplified.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/programmingscala/examples/types/higherkinded/types/HigerKindedTypes.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/programmingscala/examples/implicits/ImplicitInCaseClass.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/programmingscala/examples/implicits/UsingImplicitlyExample2.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/programmingscala/examples/implicits/TypeClassPatternOrExtensionMethodSimpleEx.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/programmingscala/examples/implicits/TypeClassExampleFromNeophytesGuideVerySimple.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/programmingscala/examples/implicits/TyepClassPatternOrExtensionMethods.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/programmingscala/examples/implicits/ImplicitsToWorkAroundGenerics.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/MethodOverloading.scala" />
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/shapeless/guide/chapter1/AlternativeEncodings.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/scalaCookbook/examples/WebServices/json4s/ConvertJsonToAST.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="136" column="31" lean-forward="true" selection-start-line="136" selection-start-column="31" selection-end-line="136" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/scalaCookbook/examples/WebServices/json4s/SerializationExamples.scala">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/shapeless/guide/chapter2/HList.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/method/overloading/issue/fix/Problem.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/neophytes/guide/EitherLeftOrRight.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="160" column="3" lean-forward="true" selection-start-line="160" selection-start-column="3" selection-end-line="160" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/neophytes/guide/ExceptionsWithEitherLeftOrRight.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="77" lean-forward="true" selection-start-line="8" selection-start-column="77" selection-end-line="8" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/shapeless/guide/chapter2/ProductsAndCoProductsViaTypes.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/shapeless/guide/chapter2/AlgebraicDataTypes.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/shapeless/guide/chapter1/objectHList.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/shapeless/guide/chapter1/BasicGenericClassExample.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="47" column="58" lean-forward="true" selection-start-line="47" selection-start-column="58" selection-end-line="47" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/shapeless/guide/chapter1/ADTMeaning.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/scalaCookbook/examples/exceptions/FilterListAndthrowException.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="652">
-          <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/programmingscala/examples/scalaObjectSystem/CaseClassesProductTuples.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
